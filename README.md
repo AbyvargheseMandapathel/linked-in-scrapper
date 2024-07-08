@@ -1,3 +1,6 @@
+#Inspired from
+https://github.com/hossam-elshabory/LinkedIn-Job-Selenium-Scrapper.git
+
 # LinkedIn Job Scraper
 This Python script allows you to scrape job listings from LinkedIn based on a job title and location. It uses the Selenium web driver and BeautifulSoup to scrape the job postings and store the results in a list of dictionaries, where each dictionary represents a job listing with the following keys: 'title', 'company', 'location', 'link', and 'description'.
 
