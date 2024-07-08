@@ -1,0 +1,682 @@
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Successfully saved 2 jobs to PDF file 'jobs.pdf'
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Saved job 'Senior Manager - HR Business Partner' to 1.pdf
+INFO:root:Saved job 'Market HR Partner' to 2.pdf
+INFO:root:Saved job 'Sr. HR Generalist' to 3.pdf
+INFO:root:Saved job 'HR Ops Admin' to 4.pdf
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Saved job 'Senior Manager - HR Business Partner' to 1.pdf
+INFO:root:Saved job 'Market HR Partner' to 2.pdf
+INFO:root:Saved job 'Sr. HR Generalist' to 3.pdf
+INFO:root:Saved job 'HR Ops Admin' to 4.pdf
+INFO:root:Successfully saved 4 jobs to PDF files.
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Saved job 'Senior Manager - HR Business Partner' to 1.pdf
+INFO:root:Saved job 'Market HR Partner' to 2.pdf
+INFO:root:Saved job 'Sr. HR Generalist' to 3.pdf
+INFO:root:Saved job 'HR Ops Admin' to 4.pdf
+INFO:root:Successfully saved 4 jobs to PDF files.
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6C8D2EEA2+31554]
+	(No symbol) [0x00007FF6C8CA7ED9]
+	(No symbol) [0x00007FF6C8B68559]
+	(No symbol) [0x00007FF6C8BB97C2]
+	(No symbol) [0x00007FF6C8BAC151]
+	(No symbol) [0x00007FF6C8BDD02A]
+	(No symbol) [0x00007FF6C8BABA76]
+	(No symbol) [0x00007FF6C8BDD240]
+	(No symbol) [0x00007FF6C8BFC977]
+	(No symbol) [0x00007FF6C8BDCDD3]
+	(No symbol) [0x00007FF6C8BAA33B]
+	(No symbol) [0x00007FF6C8BAAED1]
+	GetHandleVerifier [0x00007FF6C9038B1D+3217341]
+	GetHandleVerifier [0x00007FF6C9085AE3+3532675]
+	GetHandleVerifier [0x00007FF6C907B0E0+3489152]
+	GetHandleVerifier [0x00007FF6C8DDE776+750614]
+	(No symbol) [0x00007FF6C8CB375F]
+	(No symbol) [0x00007FF6C8CAEB14]
+	(No symbol) [0x00007FF6C8CAECA2]
+	(No symbol) [0x00007FF6C8C9E16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Saved job 'Senior Manager - HR Business Partner' to 1.pdf
+INFO:root:Saved job 'Market HR Partner' to 2.pdf
+INFO:root:Saved job 'Sr. HR Generalist' to 3.pdf
+INFO:root:Saved job 'HR Ops Admin' to 4.pdf
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Saved job 'Senior Manager - HR Business Partner' to 1.pdf
+INFO:root:Saved job 'Market HR Partner' to 2.pdf
+INFO:root:Saved job 'Sr. HR Generalist' to 3.pdf
+INFO:root:Saved job 'HR Ops Admin' to 4.pdf
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Successfully saved 1 jobs to PDF file 'jobs.pdf'
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Successfully saved 1 jobs to PDF file 'jobs.pdf'
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A872A]
+	(No symbol) [0x00007FF71B7F8434]
+	(No symbol) [0x00007FF71B7F853C]
+	(No symbol) [0x00007FF71B83F6A7]
+	(No symbol) [0x00007FF71B81D06F]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scrolling to bottom of page 2...
+INFO:root:Error clicking on 'Show more' button: Message: 
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A872A]
+	(No symbol) [0x00007FF71B7F8434]
+	(No symbol) [0x00007FF71B7F853C]
+	(No symbol) [0x00007FF71B83F6A7]
+	(No symbol) [0x00007FF71B81D06F]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Successfully saved 0 jobs to PDF file 'jobs.pdf'
+INFO:root:Starting LinkedIn job scrape for "HR" in "IND"...
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Successfully saved 1 jobs to PDF file 'jobs.pdf'
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Manesar, Haryana, India...
+INFO:root:Successfully saved 5 jobs to PDF file 'jobs.pdf'
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Manesar, Haryana, India...
+INFO:root:Successfully saved job 'Senior Manager - HR Business Partner' to PDF file 'jobs_1.pdf'
+INFO:root:Successfully saved job 'Market HR Partner' to PDF file 'jobs_2.pdf'
+INFO:root:Successfully saved job 'Sr. HR Generalist' to PDF file 'jobs_3.pdf'
+INFO:root:Successfully saved job 'HR Ops Admin' to PDF file 'jobs_4.pdf'
+INFO:root:Successfully saved job 'HR Ops Admin' to PDF file 'jobs_5.pdf'
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Manesar, Haryana, India...
+INFO:root:Successfully saved job 'Senior Manager - HR Business Partner' to PDF file 'job_1.pdf' in folder 'Senior Manager - HR Business Partner_Bengaluru, Karnataka, India'
+INFO:root:Successfully saved job 'Market HR Partner' to PDF file 'job_2.pdf' in folder 'Market HR Partner_Bengaluru, Karnataka, India'
+INFO:root:Successfully saved job 'Sr. HR Generalist' to PDF file 'job_3.pdf' in folder 'Sr. HR Generalist_Bengaluru, Karnataka, India'
+INFO:root:Successfully saved job 'HR Ops Admin' to PDF file 'job_4.pdf' in folder 'HR Ops Admin_Gurugram, Haryana, India'
+INFO:root:Successfully saved job 'HR Ops Admin' to PDF file 'job_5.pdf' in folder 'HR Ops Admin_Manesar, Haryana, India'
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+WARNING:root:AttributeError occurred while retrieving job description.
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Manesar, Haryana, India...
+INFO:root:Successfully saved job 'Senior Manager - HR Business Partner' to PDF file 'jobs_2024-07-08_22-09-18\job_1.pdf'
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Gurugram, Haryana, India...
+INFO:root:Scraped "HR Ops Admin" at Amazon in Manesar, Haryana, India...
+INFO:root:Successfully saved job 'Senior Manager - HR Business Partner' to PDF file 'jobs_2024-07-08_22-12-42\Senior Manager - HR Business Partner_1.pdf'
+INFO:root:Successfully saved job 'Market HR Partner' to PDF file 'jobs_2024-07-08_22-12-42\Market HR Partner_2.pdf'
+INFO:root:Successfully saved job 'Sr. HR Generalist' to PDF file 'jobs_2024-07-08_22-12-42\Sr. HR Generalist_3.pdf'
+INFO:root:Successfully saved job 'HR Ops Admin' to PDF file 'jobs_2024-07-08_22-12-42\HR Ops Admin_4.pdf'
+INFO:root:Successfully saved job 'HR Ops Admin' to PDF file 'jobs_2024-07-08_22-12-42\HR Ops Admin_5.pdf'
+INFO:root:Scrolling to bottom of page 1...
+INFO:root:Error clicking on 'Show more' button: Message: element not interactable
+  (Session info: chrome=126.0.6478.127)
+Stacktrace:
+	GetHandleVerifier [0x00007FF71B96EEA2+31554]
+	(No symbol) [0x00007FF71B8E7ED9]
+	(No symbol) [0x00007FF71B7A8559]
+	(No symbol) [0x00007FF71B7F97C2]
+	(No symbol) [0x00007FF71B7EC151]
+	(No symbol) [0x00007FF71B81D02A]
+	(No symbol) [0x00007FF71B7EBA76]
+	(No symbol) [0x00007FF71B81D240]
+	(No symbol) [0x00007FF71B83C977]
+	(No symbol) [0x00007FF71B81CDD3]
+	(No symbol) [0x00007FF71B7EA33B]
+	(No symbol) [0x00007FF71B7EAED1]
+	GetHandleVerifier [0x00007FF71BC78B1D+3217341]
+	GetHandleVerifier [0x00007FF71BCC5AE3+3532675]
+	GetHandleVerifier [0x00007FF71BCBB0E0+3489152]
+	GetHandleVerifier [0x00007FF71BA1E776+750614]
+	(No symbol) [0x00007FF71B8F375F]
+	(No symbol) [0x00007FF71B8EEB14]
+	(No symbol) [0x00007FF71B8EECA2]
+	(No symbol) [0x00007FF71B8DE16F]
+	BaseThreadInitThunk [0x00007FFF7DB9257D+29]
+	RtlUserThreadStart [0x00007FFF7F06AF28+40]
+
+INFO:root:Scraped "Senior Manager - HR Business Partner" at Flipkart in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Market HR Partner" at Google in Bengaluru, Karnataka, India...
+INFO:root:Scraped "Sr. HR Generalist" at Polaris Inc. in Bengaluru, Karnataka, India...
+INFO:root:Successfully saved job 'Senior Manager - HR Business Partner' to PDF file 'jobs_2024-07-08_22-17-26\Senior Manager - HR Business Partner_1.pdf'
+INFO:root:Successfully saved job 'Market HR Partner' to PDF file 'jobs_2024-07-08_22-17-26\Market HR Partner_2.pdf'
+INFO:root:Successfully saved job 'Sr. HR Generalist' to PDF file 'jobs_2024-07-08_22-17-26\Sr. HR Generalist_3.pdf'

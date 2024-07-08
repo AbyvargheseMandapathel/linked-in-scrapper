@@ -30,8 +30,9 @@ pages: the number of pages of job listings to scrape (optional, default is 1)
 job_title = "data scientist"
 location = "New York City"
 pages = 3
+max_jobs=5
 
-jobs = scrape_linkedin_jobs(job_title, location, pages)
+data = scrape_linkedin_jobs("HR", "IND", pages=2, max_jobs=3)
 ```
 
 This will scrape the first 3 pages of job listings for "data scientist" jobs in "New York City" and store the results in a list of dictionaries called "jobs".
